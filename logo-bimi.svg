@@ -67,5 +67,5 @@
   <circle cx="256" cy="174" r="3.5" fill="#ffffff"/>
   <rect x="168" y="346" width="176" height="54" rx="27" fill="url(#stmGrad)" fill-opacity="0.12"/>
   <rect x="169" y="347" width="174" height="52" rx="26" stroke="url(#stmGrad)" stroke-opacity="0.30" stroke-width="1.5" fill="none"/>
-  <text x="256" y="387" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="42" font-weight="bold" fill="#0f8a8d" style="letter-spacing: 8px">STM</text>
+  <text x="256" y="387" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="42" font-weight="bold" fill="#0f8a8d">STM</text>
 </svg>
